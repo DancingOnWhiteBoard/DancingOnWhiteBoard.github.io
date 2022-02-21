@@ -7,3 +7,9 @@ p{
 strong{
     color:#0000ff;
 }
+
+div{
+    font-size:200%;
+    color:#ff0000;
+    background-color:333333;
+}
