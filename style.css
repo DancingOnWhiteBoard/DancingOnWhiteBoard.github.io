@@ -1,19 +1,18 @@
 @charset "utf-8";
 
 p{
-    background-color: #006600;
+    background-color: #999999;
 }
 
 strong{
-    color:#0000ff;
+    color:#000055;
 }
 
 div{
     font-size:300%;
     color:#ff0000;
-    background-color:#333333;
 }
 
 h1{
-    background-color:#666666;
+    background-color:#111111;
 }
