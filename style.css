@@ -11,5 +11,9 @@ strong{
 p.div{
     font-size:300%;
     color:#ff0000;
-    background-color:333333;
+    background-color:#333333;
+}
+
+h1{
+    background-color:#666666;
 }
