@@ -28,3 +28,8 @@ p.poem{
     border-radius:8px;
     
 }
+
+span{
+    font-size:120%;
+    font-color:blue;
+}
