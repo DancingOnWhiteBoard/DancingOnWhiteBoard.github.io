@@ -17,6 +17,11 @@ div{
     border-color:white;
 }
 
+div.mark{
+    font-size:200%;
+    color:red;
+}
+
 h1{
     border:10px solid;
     border-color:#ff00ff;
