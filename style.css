@@ -19,6 +19,9 @@ h1{
 }
 
 p.poem{
-    color:red;
-    border:solid;
+    color:green;
+    border:4px solid;
+    border-color:yellow;
+    border-radius:8px;
+    
 }
