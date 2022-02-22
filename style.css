@@ -14,13 +14,12 @@ div{
     color:#770000;
     background-color:#cccccc;
     border:8px solid;
-    border-color:white;
 }
 
 div.mark{
     font-size:200%;
-    color:red;
-    background-color:transparent;
+    color:white;
+    background-color:green;
 }
 
 h1{
