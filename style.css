@@ -17,3 +17,8 @@ div{
 h1{
     background-color:#777777;
 }
+
+p.poem{
+    color:red;
+    border:solid;
+}
