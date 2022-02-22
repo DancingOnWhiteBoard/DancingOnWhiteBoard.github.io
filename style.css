@@ -20,7 +20,7 @@ div{
 div.mark{
     font-size:200%;
     color:red;
-    background-color:none;
+    background-color:transparent;
 }
 
 h1{
