@@ -5,7 +5,8 @@ p#sample{
 }
 
 p.speach{
-    color:black;
+    color:white;
+    background-color:black;
     font-size:120%;
     border:15px solid;
     border-color:red;
