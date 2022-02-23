@@ -4,6 +4,13 @@ p#sample{
     background-color: #aaaaaa;
 }
 
+p.speach{
+    color:black;
+    font-size:120%;
+    border:15px solid;
+    border-color:red;
+}
+
 strong{
     color:#000055;
     font-size:130%;
