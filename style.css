@@ -49,3 +49,13 @@ pre{
     font-size:150%;
     color:blue;
 }
+
+img#picture1{
+    width:200px;
+    height:auto;
+}
+
+img#picture2{
+    width:300;
+    htight:auto;
+}
