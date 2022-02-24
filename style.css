@@ -83,4 +83,9 @@ table{
 
 table th{
     background-color:blue;
+    border: 3px solid;
+}
+
+table td{
+    border:3px solid;
 }
