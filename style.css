@@ -54,6 +54,11 @@ span{
     color:blue;
 }
 
+span.red{
+    color:red;
+    font-size:100%;
+}
+
 pre{
     font-size:150%;
     color:blue;
