@@ -28,14 +28,7 @@ div.mark{
     color:white;
     background-color:green;
 }
-/*
-div.red{
-    color:red;
-}
-*/
-table td div.red{
-    color:red;
-}
+
 
 h1{
     border:10px solid;
