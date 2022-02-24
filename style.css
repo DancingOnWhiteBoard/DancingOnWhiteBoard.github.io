@@ -76,3 +76,7 @@ img.panf{
     width:400px;
     height:auto;
 }
+
+table{
+    border:3px solid;
+}
