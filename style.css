@@ -3,6 +3,9 @@
 body{
     font-size:120%;
 }
+p{
+    font-size:20px;
+}
 
 p#sample{
     background-color: #aaaaaa;
