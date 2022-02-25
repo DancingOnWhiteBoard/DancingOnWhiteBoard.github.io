@@ -91,3 +91,7 @@ table th{
 table td{
     border:3px solid;
 }
+
+a{
+    font-size:120%;
+}
