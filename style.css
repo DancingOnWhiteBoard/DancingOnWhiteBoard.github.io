@@ -12,7 +12,7 @@ h1{
 }
 
 h2{
-    background-color:lightyellow;
+    background-color:bisque;
     
 }
 
@@ -42,7 +42,7 @@ strong{
 }
 
 div.report{
-    font-size:121%;
+    font-size:105%;
     color:#dd0000;
     background-color:#cccccc;
 }
@@ -65,7 +65,7 @@ p.poem{
 }
 
 span{
-    font-size:130%;
+    font-size:120%;
     color:blue;
 }
 
@@ -91,6 +91,7 @@ img.panf{
 
 table{
     border:3px solid;
+    width:auto;
 }
 
 table th{
