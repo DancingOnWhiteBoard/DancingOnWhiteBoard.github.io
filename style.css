@@ -3,6 +3,22 @@
 body{
     font-size:16px;
 }
+
+h1{
+    border:10px solid;
+    border-color:#ff00ff;
+    border-radius:20px;
+    background-color:silver;
+}
+
+h2{
+    background-color:#fffff0;
+}
+
+h3{
+    font-size:14px;
+}
+
 p{
     font-size:16px;
 }
@@ -37,20 +53,7 @@ div.mark{
 }
 
 
-h1{
-    border:10px solid;
-    border-color:#ff00ff;
-    border-radius:20px;
-    background-color:silver;
-}
 
-h2{
-    background-color:ivory;
-}
-
-h3{
-    font-size:14px;
-}
 
 p.poem{
     color:green;
