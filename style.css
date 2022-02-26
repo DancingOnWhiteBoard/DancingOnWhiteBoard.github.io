@@ -1,10 +1,10 @@
 @charset "utf-8";
 
 body{
-    font-size:20px;
+    font-size:16px;
 }
 p{
-    font-size:20px;
+    font-size:16px;
 }
 
 p#sample{
@@ -14,24 +14,24 @@ p#sample{
 p.speach{
     color:white;
     background-color:black;
-    font-size:120%;
+    font-size:110%;
     border:15px solid;
     border-color:red;
 }
 
 strong{
     color:#000055;
-    font-size:130%;
+    font-size:110%;
 }
 
 div.report{
-    font-size:120%;
+    font-size:121%;
     color:#dd0000;
     background-color:#cccccc;
 }
 
 div.mark{
-    font-size:120%;
+    font-size:110%;
     color:white;
     background-color:green;
 }
@@ -68,11 +68,6 @@ span{
 span.red{
     color:red;
     font-size:120%;
-}
-
-pre{
-    font-size:150%;
-    color:blue;
 }
 
 img#picture1{
