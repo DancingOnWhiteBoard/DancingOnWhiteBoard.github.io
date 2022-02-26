@@ -92,6 +92,7 @@ img.panf{
 table{
     border:3px solid;
     width:100%;
+    overflow-x:scroll;
 }
 
 table th{
