@@ -42,13 +42,13 @@ strong{
 }
 
 div.report{
-    font-size:105%;
+    font-size:20px;
     color:#dd0000;
     background-color:#cccccc;
 }
 
 div.mark{
-    font-size:110%;
+    font-size:20px;
     color:white;
     background-color:green;
 }
