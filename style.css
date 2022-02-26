@@ -74,12 +74,7 @@ span.red{
     font-size:120%;
 }
 
-img#picture1{
-    width:300px;
-    height:auto;
-}
-
-img#picture2{
+img.picture1{
     width:300px;
     height:auto;
 }
