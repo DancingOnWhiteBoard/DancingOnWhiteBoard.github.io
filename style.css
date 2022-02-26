@@ -41,12 +41,6 @@ strong{
     font-size:110%;
 }
 
-div.report{
-    font-size:20px;
-    color:#dd0000;
-    background-color:#cccccc;
-}
-
 div.mark{
     font-size:20px;
     color:white;
@@ -95,6 +89,6 @@ table td{
 }
 
 a{
-    font-size:15px;
+    font-size:20px;
     margin:10px;
 }
