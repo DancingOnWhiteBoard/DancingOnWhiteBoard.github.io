@@ -72,12 +72,14 @@ span.red{
 img.picture1{
     width:300px;
     height:auto;
+    flaut:left;
 }
 
 table{
     border:3px solid;
-    overflow-x:scroll;
+    overflow:scroll;
     width:50%;
+    
 }
 
 table th{
