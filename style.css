@@ -48,7 +48,11 @@ div.mark{
     text-align:center;
 }
 
-
+div.overflow{
+    overflow:scroll;
+    width:50%;
+    height:200px;
+}
 
 
 p.poem{
@@ -77,10 +81,6 @@ img.picture1{
 
 table{
     border:3px solid;
-    overflow:scroll;
-    width:100px;
-    height:100px;
-    
 }
 
 table th{
