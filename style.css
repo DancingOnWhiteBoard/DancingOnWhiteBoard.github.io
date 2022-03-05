@@ -51,7 +51,7 @@ div.mark{
 div.overflow{
     overflow:scroll;
     width:50%;
-    height:200px;
+    height:auto;
 }
 
 
