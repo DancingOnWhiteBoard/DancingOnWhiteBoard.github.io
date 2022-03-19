@@ -1,5 +1,9 @@
 @charset "utf-8";
 
+h1{
+　text-shadow:4px 2px 3px yellow,-3px -2px 3px blue;
+}
+
 p{
   font-size:20px;
 }
