@@ -32,5 +32,5 @@ form{
   color:black;
   background-color: yellowgreen;
   border-left: 30px solid teal;
-  transition: border-left 5.0s;
+  transition: border-left 4.0s,color 3.0s,background-color 2.0s;
 }
