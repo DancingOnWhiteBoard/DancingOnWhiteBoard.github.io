@@ -16,10 +16,21 @@ ol li{
 
 form{
   background-color: aliceblue;
+  border: solid burlywood 3px;
 }
 
 .title{
-  font-size: 120%;
+  font-size: 50px;
   background-color: blueviolet;
   color: white;
+  border: solid 3px red;
+  width: 50%;
+  text-align: center;
+}
+
+.title:hover{
+  color:black;
+  background-color: yellowgreen;
+  border-left: 30px solid teal;
+  transition: border-left 4.0s ;
 }
