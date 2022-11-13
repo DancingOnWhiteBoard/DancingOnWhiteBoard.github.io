@@ -17,3 +17,9 @@ ol li{
 form{
   background-color: aliceblue;
 }
+
+.title{
+  font-size: 120%;
+  background-color: blueviolet;
+  color: white;
+}
