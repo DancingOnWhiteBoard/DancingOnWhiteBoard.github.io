@@ -1,0 +1,100 @@
+@charset "utf-8";
+
+body{
+    font-size:16px;
+}
+
+h1{
+    border:10px solid;
+    border-color:#ff00ff;
+    border-radius:20px;
+    background-color:silver;
+}
+
+h2{
+    background-color:bisque;
+    
+}
+
+h3{
+   background-color:tan;
+}
+
+p{
+    font-size:16px;
+}
+
+p#sample{
+    background-color: #aaaaaa;
+}
+
+p.speach{
+    color:white;
+    background-color:black;
+    font-size:110%;
+    border:15px solid;
+    border-color:red;
+}
+
+strong{
+    color:#000055;
+    font-size:110%;
+}
+
+div.mark{
+    font-size:20px;
+    color:white;
+    background-color:green;
+    text-align:center;
+}
+
+div.overflow{
+    overflow:scroll;
+    width:100%;
+    height:auto;
+}
+
+
+p.poem{
+    color:green;
+    border:4px solid;
+    border-color:black;
+    border-radius:8px;
+    
+}
+
+span{
+    font-size:120%;
+    color:blue;
+}
+
+span.red{
+    color:red;
+    font-size:120%;
+}
+
+img.picture1{
+    width:300px;
+    height:auto;
+    float:right;
+}
+
+table{
+    border:3px solid;
+}
+
+table th{
+    background-color:steelblue;
+    border: 3px solid;
+}
+
+table td{
+    border:3px solid;
+    text-align:center;
+    
+}
+
+a{
+    font-size:105%;
+    margin:10px;
+}

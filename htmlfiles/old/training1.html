@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        #js{
+            width:"300px";
+            height:"300px";
+            background-color:"green";
+        }
+        #anime{
+            width:500px;
+            height:500px;
+            background-color:cadetblue;
+            position:absolute;
+        }
+        #box{
+            width:50px;
+            height:50px;
+            background-color:blue;
+            position:relative;
+        }
+    </style>
+    <button id="js" onclick="change()" >
+        click ! 
+    </button>
+    <script>
+        function change(){
+        var elem=document.getElementById("js");
+        elem.innerHTML="nice click! very Good!";
+        }
+    </script>
+ 
+    <div id="anime">
+        <div id="box"></div>
+    </div>
+    <script>
+        var t = setInterval(move,500);
+        var b = document.getElementById("box");
+        var p = 0;
+        var h=0;
+        function move(){
+            box.style.left= p + "px";
+            p +=100;
+            if(p>450){
+                p = 450; 
+                box.style.height = h + "px";
+                h += 50;
+            }
+        }
+    </script>
+</body>
+</html>
